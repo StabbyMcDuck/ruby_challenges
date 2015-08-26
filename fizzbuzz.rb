@@ -6,7 +6,7 @@
 #
 # Regina Imhoff - @stabbymcduck, github.com/stabbymcduck
 
-counter = 0
+counter = 1 
 
 while counter < 101 #counter goes from 1 to 100 this way
 	if counter%3 == 0 && counter%5 == 0
